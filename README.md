@@ -41,7 +41,7 @@ Includes crosshair codes, sensitivity presets, FPS boost settings, and keybinds 
 ### 🖼 Preview
 
 **1. Crosshair Config Example**  
-![Crosshair](https://repository-images.githubusercontent.com/672307507/9a1a0fc5-3fb3-4cd4-9e2a-c22c372ed4ae)  
+![Crosshair](https://invision.gg/images/landing/hero/cs2_esp_preview.webp)  
 *Custom CS2 crosshair style*  
 
 
